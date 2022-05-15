@@ -44,5 +44,5 @@ public class MyServletConfig {
         eventListenerServletListenerRegistrationBean.setListener(new MyRequestListener());
         return eventListenerServletListenerRegistrationBean;
     }
-    
+
 }
